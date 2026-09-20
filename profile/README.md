@@ -12,7 +12,3 @@
 - **Exact money** — decimal arithmetic only, never floats.
 
 Status: alpha. Source-available under the PolyForm Internal Use License.
-
-## Contact
-
-malikzade.gulshan@gmail.com
